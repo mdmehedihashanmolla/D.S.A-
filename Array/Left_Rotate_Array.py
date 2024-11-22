@@ -7,3 +7,4 @@ def Left_Rotate_Array(arr, n):
 l = [1, 2, 3, 4, 5]
 n = len(l)
 print(Left_Rotate_Array(l, n))
+
